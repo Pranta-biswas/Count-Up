@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: cornflowerblue;
+}
+
+.text{
+    position: absolute;
+}
+
+.text h1{
+    position: fixed;
+    text-transform: uppercase;
+    font-size: 25px;
+    color: #fff;
+    top: 306px;
+}
+
+.count-up-main-box{
+    display: flex;
+}
+
+.count-up-main-box .box-1{
+    width: 300px;
+    height: 150px;
+    background: coral;
+    margin-left: 8px;
+    margin-right: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.count-up-main-box .box-2{
+    width: 300px;
+    height: 150px;
+    background: coral;
+    margin-left: 8px;
+    margin-right: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.count-up-main-box .box-3{
+    width: 300px;
+    height: 150px;
+    background: coral;
+    margin-left: 8px;
+    margin-right: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.count-up-main-box .box-4{
+    width: 300px;
+    height: 150px;
+    background: coral;
+    margin-left: 8px;
+    margin-right: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.count-up-main-box h2{
+    color: #fff;
+    font-size: 45px;
+    font-family: ;
+    font-weight: ;
+}
+
+.count-up-main-box small{
+    position: absolute;
+}
